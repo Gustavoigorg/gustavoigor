@@ -10,8 +10,8 @@
 
 ## 🚀 Meus Projetos
 
-[![LucroTech PRO](https://github-readme-stats.vercel.app/api/pin/?username=gustavoigor&repo=lucrotech-pro&theme=radical)](https://lucrutech.netlify.app)
-[![NailPRO](https://github-readme-stats.vercel.app/api/pin/?username=gustavoigor&repo=nailpro&theme=radical)](https://nailpro.netlify.app)
+[![LucroTech PRO](https://github-readme-stats.vercel.app/api/pin/?username=gustavoigor&repo=lucrotech-pro&theme=radical)](https://lucrutechpro.netlify.app)
+[![NailPRO](https://github-readme-stats.vercel.app/api/pin/?username=gustavoigor&repo=nailpro&theme=radical)](https://nailprolucro.netlify.app)
 
 ## 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
