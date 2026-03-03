@@ -10,7 +10,7 @@
 
 ## 🚀 Meus Projetos
 
-[![LucroTech PRO](https://github-readme-stats.vercel.app/api/pin/?username=gustavoigor&repo=lucrotech-pro&theme=radical)](https://lucrutechpro.netlify.app)
+[![LucroTech PRO](https://github-readme-stats.vercel.app/api/pin/?username=gustavoigor&repo=lucrotech-pro&theme=radical)](https://lucrutechpro.netlify.app/)
 [![NailPRO](https://github-readme-stats.vercel.app/api/pin/?username=gustavoigor&repo=nailpro&theme=radical)](https://nailprolucro.netlify.app)
 
 ## 🛠️ Tech Stack
