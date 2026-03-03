@@ -7,10 +7,12 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavoigor&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🚀 Meus Projetos
+## 🚀 Projetos
 
-[![LucroTech PRO](https://github-readme-stats.vercel.app/api/pin/?username=gustavoigor&repo=lucrotech-pro&theme=radical)](https://lucrutechpro.netlify.app)
-[![NailPRO](https://github-readme-stats.vercel.app/api/pin/?username=gustavoigor&repo=nailpro&theme=radical)](https://nailprolucro.netlify.app/)
+| 💰 **LucroTech PRO** | 💅 **NailPRO** |
+|---|---|
+[![Demo](https://img.shields.io/badge/Live_Demo-4F46E5?style=for-the-badge&logo=electron&logoColor=white)](https://lucrutechpro.netlify.app/) | [![Demo](https://img.shields.io/badge/Live_Demo-4F46E5?style=for-the-badge&logo=electron&logoColor=white)](https://nailprolucro.netlify.app/) |
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavoigor/lucrotech-pro) | [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavoigor/nailpro) |
 
 ## 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
