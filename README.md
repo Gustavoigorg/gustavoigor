@@ -26,6 +26,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PWA](https://img.shields.io/badge/PWA-1192ED?style=for-the-badge&logo=pwa&logoColor=white)
 
-**Open to Work!** ✉️ gustavo@gmail.com | 🌎 Remoto OK | 💼 Freelance MA
+**Open to Work!** ✉️ gustavoigor7039@gmail.com | 🌎 Remoto OK | 💼 Freelance MA
 
 </div>
